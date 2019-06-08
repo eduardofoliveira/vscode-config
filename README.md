@@ -1,5 +1,5 @@
 # vscode-config
-
+```
 {
   "workbench.colorTheme": "Dracula",
   "workbench.iconTheme": "material-icon-theme",
@@ -23,3 +23,4 @@
   "editor.parameterHints.enabled": false,
   "prettier.eslintIntegration": true
 }
+```
